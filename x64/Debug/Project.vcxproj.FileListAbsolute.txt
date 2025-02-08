@@ -1,0 +1,4 @@
+C:\Users\MAA COMPUTERS\source\repos\Project\x64\Debug\Project.vcxproj.AssemblyReference.cache
+C:\Users\MAA COMPUTERS\source\repos\Project\x64\Debug\Project.Form1.resources
+C:\Users\MAA COMPUTERS\source\repos\Project\x64\Debug\Project.vcxproj.GenerateResource.cache
+C:\Users\MAA COMPUTERS\source\repos\Project\x64\Debug\ExpressionConverterAndEvaluator.exe
